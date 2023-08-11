@@ -12,7 +12,7 @@ spring:
       ddl-auto: update
       generate-ddl: true
       show-sql: true
-  boot.message=Hello,Department Service 
+  boot.message: Hello,Department Service 
  
   eureka:
     client:
