@@ -12,7 +12,7 @@ spring:
       generate-ddl: true
       show-sql: true
   
-  boot.message: Hello,Employee Service Spring Cloud Bussess Demo
+  boot.message: Hello,Employee Service Spring Cloud Busses Demo
 
 
   eureka:
